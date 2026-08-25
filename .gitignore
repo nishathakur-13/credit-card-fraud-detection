@@ -1,0 +1,18 @@
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+*.log
+.streamlit/
+
+# The uncompressed dataset exceeds GitHub's file limit.
+data/creditcard.csv
+data/archive.zip
+
+# Windows shortcut
+*.lnk
+
+# Local/editor files
+.vscode/
+.DS_Store
+Thumbs.db
