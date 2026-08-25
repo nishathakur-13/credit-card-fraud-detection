@@ -6,6 +6,7 @@ matplotlib
 seaborn
 joblib
 streamlit
+plotly
 fastapi
 uvicorn
 pydantic
